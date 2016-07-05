@@ -10,9 +10,9 @@ A collection of utf8-related functions.
 
 ```json
 {
-    "require": {
-        "yalesov/utf8": "2.*"
-    }
+  "require": {
+    "yalesov/utf8": "2.*"
+  }
 }
 ```
 
