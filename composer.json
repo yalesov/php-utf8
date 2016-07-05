@@ -1,31 +1,31 @@
 {
-    "name": "yalesov/utf8",
-    "description": "A collection of utf8-related functions",
-    "keywords": ["utf8", "utf-8"],
-    "authors": [
-        {
-            "name": "Yulij Andreevich Lesov",
-            "email": "yalesov@gmail.com"
-        }
-    ],
-    "require": {
-        "php": ">=5.3.3",
-        "yalesov/arg-validator": "2.*"
-    },
-    "autoload": {
-        "psr-0": {
-            "Yalesov\\Utf8": "src/"
-        }
-    },
-    "license": "ISC",
-    "homepage": "https://github.com/yalesov/php-utf8",
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/yalesov/php-utf8"
-        }
-    ],
-    "support": {
-        "issues": "https://github.com/yalesov/php-utf8/issues"
+  "name": "yalesov/utf8",
+  "description": "A collection of utf8-related functions",
+  "keywords": ["utf8", "utf-8"],
+  "authors": [
+    {
+      "name": "Yulij Andreevich Lesov",
+      "email": "yalesov@gmail.com"
     }
+  ],
+  "require": {
+    "php": ">=5.3.3",
+    "yalesov/arg-validator": "2.*"
+  },
+  "autoload": {
+    "psr-0": {
+      "Yalesov\\Utf8": "src/"
+    }
+  },
+  "license": "ISC",
+  "homepage": "https://github.com/yalesov/php-utf8",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/yalesov/php-utf8"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/yalesov/php-utf8/issues"
+  }
 }
