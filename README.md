@@ -1,6 +1,6 @@
-# Heartsentwined\Utf8
+# Yalesov\Utf8
 
-[![Build Status](https://secure.travis-ci.org/heartsentwined/utf8.png)](http://travis-ci.org/heartsentwined/utf8)
+[![Build Status](https://secure.travis-ci.org/yalesov/utf8.png)](http://travis-ci.org/yalesov/utf8)
 
 A collection of utf8-related functions.
 
@@ -11,7 +11,7 @@ A collection of utf8-related functions.
 ```json
 {
     "require": {
-        "heartsentwined/utf8": "1.*"
+        "yalesov/utf8": "1.*"
     }
 }
 ```
@@ -21,13 +21,13 @@ A collection of utf8-related functions.
 Utf-8 version of [chr](http://php.net/manual/en/function.chr.php):
 
 ```php
-use Heartsentwined\Utf8\Utf8;
+use Yalesov\Utf8\Utf8;
 $char = Utf8::uchr($num);
 ```
 
 Utf-8 version of [ord](http://php.net/manual/en/function.ord.php):
 
 ```php
-use Heartsentwined\Utf8\Utf8;
+use Yalesov\Utf8\Utf8;
 $num = Utf8::uord($char);
 ```

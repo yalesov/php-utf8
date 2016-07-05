@@ -1,7 +1,7 @@
 <?php
-namespace Heartsentwined\Utf8;
+namespace Yalesov\Utf8;
 
-use Heartsentwined\ArgValidator\ArgValidator;
+use Yalesov\ArgValidator\ArgValidator;
 
 class Utf8
 {

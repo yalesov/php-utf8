@@ -1,7 +1,7 @@
 <?php
-namespace Heartsentwined\Test\Utf8;
+namespace Yalesov\Test\Utf8;
 
-use Heartsentwined\Utf8\Utf8;
+use Yalesov\Utf8\Utf8;
 
 class Utf8Test extends \PHPUnit_Framework_TestCase
 {
