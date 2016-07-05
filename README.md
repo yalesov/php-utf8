@@ -1,6 +1,6 @@
 # Yalesov\Utf8
 
-[![Build Status](https://secure.travis-ci.org/yalesov/utf8.png)](http://travis-ci.org/yalesov/utf8)
+[![Build Status](https://travis-ci.org/yalesov/php-utf8.svg)](https://travis-ci.org/yalesov/php-utf8)
 
 A collection of utf8-related functions.
 
